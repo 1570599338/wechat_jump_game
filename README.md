@@ -62,5 +62,5 @@ adb shell input swipe x y x y time(ms)
 
 ## QQ 交流
 
-- QQ群待建
+- QQ群待建ing
 
