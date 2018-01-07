@@ -58,7 +58,7 @@ adb shell input swipe x y x y time(ms)
 
 ## 开发者列表
 
-- 详见 [contributors](https://github.com/wangshub/wechat_jump_game/graphs/contributors)
+- 详见 [contributors](https://github.com/1570599338/wechat_jump_game/pulse)
 
 ## QQ 交流
 
